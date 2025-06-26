@@ -45,7 +45,7 @@ The **Pizza Sales Dashboard** project is a data analysis and visualization solut
 ## 📸 Screenshots
 
 ### 📌 Dashboard Overview
-![Sales Dashboard Overview](dashboard.jpeg)
+![Sales Dashboard Overview](screenshots\dashboard.jpeg)
 
 ---
 
